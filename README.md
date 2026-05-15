@@ -28,5 +28,3 @@ Used for:
 - Business Insights
 - EDA Practice
 
-## 👩‍💻 Author
-Dhannya Jayakumar
