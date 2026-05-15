@@ -1,13 +1,13 @@
 # zepto-cleaned-dataset
-## 📌 Overview
+## Overview
 This project contains a cleaned Zepto delivery and customer order dataset prepared for data analysis and dashboard creation using Python and Power BI.
-## 🧹 Cleaning Steps
+## Cleaning Steps
 - Removed duplicates
 - Handled missing values
 - Standardized column names
 - Corrected data formats
 - Converted data types
-## 📊 Key Columns
+## Key Columns
 - Order ID
 - Customer Age
 - Product Category
@@ -16,12 +16,12 @@ This project contains a cleaned Zepto delivery and customer order dataset prepar
 - Delivery Time
 - Payment Method
 - Rating
-## 🛠️ Tools Used
+## Tools Used
 - Python
 - Pandas
 - Power BI
 - Excel
-## 🎯 Purpose
+## Purpose
 Used for:
 - Data Analysis
 - Dashboard Creation
